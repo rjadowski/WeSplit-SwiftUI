@@ -4,7 +4,8 @@ WeSplit is a simple iOS app that allows you to split a bill and calculate the am
 # Requirements
 Xcode 12.0 or later
 iOS 14.0 or later
-How to Use
+
+# How to Use
 Open the WeSplit app.
 Enter the check amount in the "Amount" text field.
 Select the number of people from the "Number of people" picker.
